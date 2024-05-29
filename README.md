@@ -1,4 +1,4 @@
-# Scopus_database
+# Scopus_Scraper
 Scopus Scraper : Scopus is an abstract and citation database very used in research.
 It provides open sources APIs (https://dev.elsevier.com) to query the database.
 This Python code is a Scopus Scraper application that retrieves and presents information about a researcher based on their author ID.
